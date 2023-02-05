@@ -1,1 +1,1 @@
-# OIBGRIP_Java
+This repository contains Oasis Infobyte task (Java) solutions.
